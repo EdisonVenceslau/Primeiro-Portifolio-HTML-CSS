@@ -1,0 +1,22 @@
+
+        body{
+            background-color: #eeeeee;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            
+        }
+        h2{
+            color: #4ecdc4;
+        }
+        h1{
+            color: #bc00dd;
+            
+        }
+        #pepo{
+            width: 300px;
+            position: absolute;
+            left: 970px;
+        }
+        
+
+
+    
