@@ -16,7 +16,24 @@
             position: absolute;
             left: 970px;
         }
-        
+        #habi{
+            color:#4ecdc4 ;
+        }
+        #instalogo{
+           width: 30px;
+           position: absolute;
+           left: 85px;
+           top: 989px;
+           
+          
+           
+        }
+        #githublogo{
+            width: 30px;
+           position: absolute;
+           left: 60px;
+           top: 1028px;
+        }
 
 
     
